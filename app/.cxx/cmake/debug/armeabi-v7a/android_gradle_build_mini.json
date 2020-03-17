@@ -1,0 +1,21 @@
+{
+  "buildFiles": [
+    "/Users/NC00008976/AndroidStudioProjects/mtcnn_ncnn/mtcnn_AS/app/CMakeLists.txt"
+  ],
+  "cleanCommands": [
+    "/Users/NC00008976/Library/Android/sdk/cmake/3.6.4111459/bin/cmake --build /Users/NC00008976/AndroidStudioProjects/mtcnn_ncnn/mtcnn_AS/app/.cxx/cmake/debug/armeabi-v7a --target clean"
+  ],
+  "libraries": {
+    "mtcnn-Debug-armeabi-v7a": {
+      "artifactName": "mtcnn",
+      "buildCommand": "/Users/NC00008976/Library/Android/sdk/cmake/3.6.4111459/bin/cmake --build /Users/NC00008976/AndroidStudioProjects/mtcnn_ncnn/mtcnn_AS/app/.cxx/cmake/debug/armeabi-v7a --target mtcnn",
+      "abi": "armeabi-v7a",
+      "output": "/Users/NC00008976/AndroidStudioProjects/mtcnn_ncnn/mtcnn_AS/app/build/intermediates/cmake/debug/obj/armeabi-v7a/libmtcnn.so"
+    },
+    "libncnn-Debug-armeabi-v7a": {
+      "artifactName": "libncnn",
+      "abi": "armeabi-v7a",
+      "output": "/Users/NC00008976/AndroidStudioProjects/mtcnn_ncnn/mtcnn_AS/app/src/main/jniLibs/armeabi-v7a/libncnn.a"
+    }
+  }
+}

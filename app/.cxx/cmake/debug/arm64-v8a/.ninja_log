@@ -1,0 +1,7 @@
+# ninja log v5
+1	960	0	CMakeFiles/mtcnn.dir/src/main/cpp/mtcnn_jni.cpp.o	175a291430c88c68
+0	1345	0	CMakeFiles/mtcnn.dir/src/main/cpp/mtcnn.cpp.o	e2b434361942fc9f
+2	1028	0	../../../../build/intermediates/cmake/debug/obj/arm64-v8a/libmtcnn.so	9c1c52e7c41a554b
+14	1262	0	CMakeFiles/mtcnn.dir/src/main/cpp/mtcnn_jni.cpp.o	175a291430c88c68
+13	1689	0	CMakeFiles/mtcnn.dir/src/main/cpp/mtcnn.cpp.o	e2b434361942fc9f
+1689	2511	0	../../../../build/intermediates/cmake/debug/obj/arm64-v8a/libmtcnn.so	9c1c52e7c41a554b

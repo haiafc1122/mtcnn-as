@@ -1,0 +1,21 @@
+{
+  "buildFiles": [
+    "/Users/NC00008976/AndroidStudioProjects/mtcnn_ncnn/mtcnn_AS/app/CMakeLists.txt"
+  ],
+  "cleanCommands": [
+    "/Users/NC00008976/Library/Android/sdk/cmake/3.6.4111459/bin/cmake --build /Users/NC00008976/AndroidStudioProjects/mtcnn_ncnn/mtcnn_AS/app/.cxx/cmake/release/arm64-v8a --target clean"
+  ],
+  "libraries": {
+    "libncnn-Release-arm64-v8a": {
+      "artifactName": "libncnn",
+      "abi": "arm64-v8a",
+      "output": "/Users/NC00008976/AndroidStudioProjects/mtcnn_ncnn/mtcnn_AS/app/src/main/jniLibs/arm64-v8a/libncnn.a"
+    },
+    "mtcnn-Release-arm64-v8a": {
+      "artifactName": "mtcnn",
+      "buildCommand": "/Users/NC00008976/Library/Android/sdk/cmake/3.6.4111459/bin/cmake --build /Users/NC00008976/AndroidStudioProjects/mtcnn_ncnn/mtcnn_AS/app/.cxx/cmake/release/arm64-v8a --target mtcnn",
+      "abi": "arm64-v8a",
+      "output": "/Users/NC00008976/AndroidStudioProjects/mtcnn_ncnn/mtcnn_AS/app/build/intermediates/cmake/release/obj/arm64-v8a/libmtcnn.so"
+    }
+  }
+}
